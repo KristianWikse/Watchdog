@@ -1,9 +1,11 @@
 # The watchdog project
 
-__About__
-As out bachelor project we chose to make a smart surveillance system that was capable of distinguish beetween animals, vehicles and animals. This was to be accessed by users through an app and be powered by a battery, charged by a solar panel. This repository contains the file that made the project work and the further deveopment of the project over the summer. 
+##__About__##
+As our bachelor project we chose to make a smart surveillance system that was capable of distinguishing beetween animals, vehicles and animals. This was suppsoed to be accessed by users through an app, be powered by a battery and charged by a solar panel. The device also had to be capable of communicating with the app using a celluar connection to be accessible in remote locations. This repository contains the files the device used to run like we explained above.
 
-__Contains__
+
+
+##__Contains__##
 * Bachelor files - The documentation as sent as part of our bachelors
 ** The bachelor report
 ** The device code
